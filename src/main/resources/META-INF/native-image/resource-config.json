@@ -1,0 +1,7 @@
+{
+  "resources":[
+    {"pattern":"META-INF/mimetypes.default"}, 
+    {"pattern":"java/lang/Object.class"}, 
+    {"pattern":"javax/crypto/Cipher.class"}
+  ]
+}
