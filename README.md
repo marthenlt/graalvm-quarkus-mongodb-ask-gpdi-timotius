@@ -1,4 +1,4 @@
-# QnA Application
+# QnA Application for GraalVM Native Image
 Original QnA application is on my other repo : https://github.com/marthenlt/ask-gpdi-tomotius-sg
 
 Application used during QnA session of Youth Timothy's Service of GPdI Singapore which will be held on 1st Oct 2016.
